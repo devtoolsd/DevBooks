@@ -2,6 +2,30 @@
 
 A curated, opinionated list of **best-in-class** books for modern software development, popular programming languages, and AI/ML.
 
+---
+
+## Index
+
+- [Software Engineering Essentials](#software-engineering-essentials)
+- [Architecture, Data, and Distributed Systems](#architecture-data-and-distributed-systems)
+  - [Databases](#databases)
+- [Computer Science Foundations (Worth Knowing Forever)](#computer-science-foundations-worth-knowing-forever)
+- [Version Control](#version-control)
+- [Security](#security)
+- [Programming Languages](#programming-languages)
+  - [Python](#python)
+  - [JavaScript / TypeScript](#javascript--typescript)
+  - [Java](#java)
+  - [Go](#go)
+  - [Rust](#rust)
+  - [C / C++](#c--c)
+  - [C#](#c)
+  - [Kotlin](#kotlin)
+- [AI / Machine Learning](#ai--machine-learning)
+  - [Big-picture AI + fundamentals](#big-picture-ai--fundamentals)
+  - [Deep learning + modern practice](#deep-learning--modern-practice)
+  - [ML systems, MLOps, and LLM-era work](#ml-systems-mlops-and-llm-era-work)
+- [Contributing](#contributing)
 
 ---
 
@@ -25,6 +49,10 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 - **[Release It!](https://books.google.com/books/about/Release_It.html?id=UW7jAQAACAAJ)** - *Michael T. Nygard* - Stability patterns and failure-mode thinking for production systems.
 - **[Site Reliability Engineering](https://sre.google/books/)** - *Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (eds.)* - Reliability principles, SLOs, toil reduction, and operating at scale.
 - **[Kubernetes: Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)** - *Kelsey Hightower, Brendan Burns, Joe Beda* - A practical mental model for Kubernetes and container orchestration.
+
+### Databases
+
+- **[PostgreSQL Books](https://github.com/sara8086/PostgresBooks)** - A curated list of books and guides for PostgreSQL.
 
 ---
 
@@ -59,26 +87,48 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 - **[Effective Python](https://effectivepython.com/)** - *Brett Slatkin* - Sharp, practical items for writing clean, correct, modern Python.
 - **[Python Cookbook (3rd Edition)](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)** - *David Beazley and Brian K. Jones* - Recipe-driven solutions to real Python problems (from basics to advanced).
 
+#### Related Python Reading
+
+- **[Python Books](https://github.com/lara-west/PythonBooks)** - A comprehensive list of Python books, tutorials, and learning materials.
+
+---
+
 ### JavaScript / TypeScript
 
 - **[Eloquent JavaScript](https://eloquentjavascript.net/)** - *Marijn Haverbeke* - Best “learn JS by understanding it” book (and free online).
 - **[You Don’t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)** - *Kyle Simpson* - Deep dive into JS mechanics: scope, closures, objects, async, and more.
 - **[Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656)** - *Boris Cherny* - How to scale JS codebases with TypeScript’s type system and patterns.
 
+#### Related JavaScript Reading
+
+- **[JavaScript Books](https://github.com/minouou/jsbooks)** - A collection of books and learning resources for JavaScript.
+
+---
+
 ### Java
 
 - **[Effective Java (3rd Edition)](https://www.informit.com/store/effective-java-9780134685991)** - *Joshua Bloch* - The definitive guide to writing robust, idiomatic Java.
 - **[Java Concurrency in Practice](https://jcip.net/)** - *Brian Goetz et al.* - The classic on writing safe and scalable concurrent Java code.
+
+---
 
 ### Go
 
 - **[Boring Go!](https://golang.college/books/boring-go)** - *Caleb Doxsey* - A hands-on, approachable guide focusing on real-world Go practices and simplicity.
 - **[The Go Programming Language](https://www.gopl.io/)** - *Alan A. A. Donovan and Brian W. Kernighan* - Clear, thorough coverage of Go from core language to concurrency.
 
+#### Related Go Reading
+
+- **[GoBooks](https://github.com/dariubs/gobooks)** - A large, curated collection of Go books, tutorials, and learning resources.
+
+---
+
 ### Rust
 
 - **[The Rust Programming Language (“the book”)](https://doc.rust-lang.org/book/)** - *Steve Klabnik and Carol Nichols (with contributors)* - The best first principles introduction to Rust (free online).
 - **[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283)** - *Jim Blandy, Jason Orendorff, Leonora F. S. Tindall* - Practical, detailed Rust for real systems work.
+
+---
 
 ### C / C++
 
@@ -86,9 +136,13 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 - **[Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)** - *Scott Meyers* - Best practices for C++11/14 and “how to stop hurting yourself.”
 - **[C++ Primer](https://www.amazon.com/C-Primer-5th-Stanley-Lippman/dp/0321714113)** - *Stanley B. Lippman, Josée Lajoie, Barbara E. Moo* - A thorough, structured path through modern C++.
 
+---
+
 ### C#
 
 - **[C# in Depth](https://csharpindepth.com/)** - *Jon Skeet* - The book for understanding the “why” behind C# features (not just syntax).
+
+---
 
 ### Kotlin
 
@@ -118,6 +172,10 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 - **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)** - *Richard S. Sutton and Andrew G. Barto* - The RL classic, from bandits to policy gradients.
 - **[Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)** - *David Foster* - Practical generative modeling: VAEs, GANs, diffusion, and transformers.
 
+#### Related AI Reading
+
+- **[AI Books](https://github.com/mahseema/aibooks)** - A broad, curated list of books and resources covering AI, ML, and deep learning.
+
 ---
 
 ## Contributing
@@ -126,4 +184,3 @@ PRs welcome! If you add a book, please:
 - keep the exact bullet style,
 - prefer official/free links when available,
 - add a one-line description that explains *why it’s worth reading*.
-
