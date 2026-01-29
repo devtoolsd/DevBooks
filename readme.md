@@ -1,8 +1,7 @@
-# devtoolsd/devbooks
+# Awesome DevBooks
 
 A curated, opinionated list of **best-in-class** books for modern software development, popular programming languages, and AI/ML.
 
-> Format: **[Book](URL)** - *Author(s)* - one-line description.
 
 ---
 
@@ -55,35 +54,44 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 ## Programming Languages
 
 ### Python
+
 - **[Fluent Python](https://www.fluentpython.com/about/)** - *Luciano Ramalho* - Idiomatic Python: data model, iterators, concurrency, typing, and best practices.
 - **[Effective Python](https://effectivepython.com/)** - *Brett Slatkin* - Sharp, practical items for writing clean, correct, modern Python.
 - **[Python Cookbook (3rd Edition)](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)** - *David Beazley and Brian K. Jones* - Recipe-driven solutions to real Python problems (from basics to advanced).
 
 ### JavaScript / TypeScript
+
 - **[Eloquent JavaScript](https://eloquentjavascript.net/)** - *Marijn Haverbeke* - Best “learn JS by understanding it” book (and free online).
 - **[You Don’t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)** - *Kyle Simpson* - Deep dive into JS mechanics: scope, closures, objects, async, and more.
 - **[Programming TypeScript](https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications/dp/1492037656)** - *Boris Cherny* - How to scale JS codebases with TypeScript’s type system and patterns.
 
 ### Java
+
 - **[Effective Java (3rd Edition)](https://www.informit.com/store/effective-java-9780134685991)** - *Joshua Bloch* - The definitive guide to writing robust, idiomatic Java.
 - **[Java Concurrency in Practice](https://jcip.net/)** - *Brian Goetz et al.* - The classic on writing safe and scalable concurrent Java code.
 
 ### Go
+
+- **[Boring Go!](https://golang.college/books/boring-go)** - *Caleb Doxsey* - A hands-on, approachable guide focusing on real-world Go practices and simplicity.
 - **[The Go Programming Language](https://www.gopl.io/)** - *Alan A. A. Donovan and Brian W. Kernighan* - Clear, thorough coverage of Go from core language to concurrency.
 
 ### Rust
+
 - **[The Rust Programming Language (“the book”)](https://doc.rust-lang.org/book/)** - *Steve Klabnik and Carol Nichols (with contributors)* - The best first principles introduction to Rust (free online).
 - **[Programming Rust](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283)** - *Jim Blandy, Jason Orendorff, Leonora F. S. Tindall* - Practical, detailed Rust for real systems work.
 
 ### C / C++
+
 - **[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)** - *Brian W. Kernighan and Dennis M. Ritchie* - The classic C text (short, sharp, foundational).
 - **[Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)** - *Scott Meyers* - Best practices for C++11/14 and “how to stop hurting yourself.”
 - **[C++ Primer](https://www.amazon.com/C-Primer-5th-Stanley-Lippman/dp/0321714113)** - *Stanley B. Lippman, Josée Lajoie, Barbara E. Moo* - A thorough, structured path through modern C++.
 
 ### C#
+
 - **[C# in Depth](https://csharpindepth.com/)** - *Jon Skeet* - The book for understanding the “why” behind C# features (not just syntax).
 
 ### Kotlin
+
 - **[Kotlin in Action](https://kotlinlang.org/docs/books.html)** - *Dmitry Jemerov and Svetlana Isakova* - Practical Kotlin with the patterns you’ll actually use on real projects.
 
 ---
@@ -91,17 +99,20 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 ## AI / Machine Learning
 
 ### Big-picture AI + fundamentals
+
 - **[Artificial Intelligence: A Modern Approach (AIMA)](https://aima.cs.berkeley.edu/)** - *Stuart Russell and Peter Norvig* - The classic survey of AI concepts, agents, search, logic, probability, and learning.
 - **[Pattern Recognition and Machine Learning (PRML)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)** - *Christopher M. Bishop* - Core probabilistic ML foundations with a Bayesian viewpoint.
 - **[The Elements of Statistical Learning (ESL)](https://hastie.su.domains/ElemStatLearn/)** - *Trevor Hastie, Robert Tibshirani, Jerome Friedman* - Deep statistical learning theory; a reference you’ll keep coming back to.
 - **[An Introduction to Statistical Learning (ISLR)](https://www.statlearning.com/)** - *James, Witten, Hastie, Tibshirani, Taylor* - Friendlier, more applied companion to ESL (great first stats-ML book).
 
 ### Deep learning + modern practice
+
 - **[Deep Learning](https://www.deeplearningbook.org/)** - *Ian Goodfellow, Yoshua Bengio, Aaron Courville* - The deep learning reference text (also free online).
 - **[Hands-On Machine Learning](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)** - *Aurélien Géron* - Practical ML with end-to-end projects using modern Python tooling.
 - **[Deep Learning with Python](https://deeplearningwithpython.io/)** - *François Chollet* - Intuitive deep learning practice from the creator of Keras (and free to read online).
 
 ### ML systems, MLOps, and LLM-era work
+
 - **[Designing Machine Learning Systems](https://books.google.cz/books?id=EzhwEAAAQBAJ)** - *Chip Huyen* - End-to-end ML system design: data, training, deployment, monitoring, iteration.
 - **[Natural Language Processing with Transformers](https://transformersbook.com/)** - *Lewis Tunstall, Leandro von Werra, Thomas Wolf* - Modern NLP and transformer workflows with hands-on examples.
 - **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)** - *Richard S. Sutton and Andrew G. Barto* - The RL classic, from bandits to policy gradients.
