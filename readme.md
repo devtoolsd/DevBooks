@@ -175,6 +175,10 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 #### Related AI Reading
 
 - **[AI Books](https://github.com/mahseema/aibooks)** - A broad, curated list of books and resources covering AI, ML, and deep learning.
+- **[Go Books](https://github.com/dariubs/gobooks)** - List of Golang books
+- **[JavaScript Books](https://github.com/minouou/jsbooks)** – A collection of books and learning resources for JavaScript  
+- **[PostgreSQL Books](https://github.com/sara8086/PostgresBooks)** – A curated list of books and guides for PostgreSQL  
+- **[Python Books](https://github.com/lara-west/PythonBooks)** – A comprehensive list of Python books and tutorials
 
 ---
 
