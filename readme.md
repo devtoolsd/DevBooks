@@ -83,6 +83,7 @@ A curated, opinionated list of **best-in-class** books for modern software devel
 
 ### Python
 
+- **[Python by Example](https://github.com/pycollege/python-by-example)** - **Dariush Abbasi** - A practical, example-driven guide to learning Python with clear explanations and real coding tasks.
 - **[Fluent Python](https://www.fluentpython.com/about/)** - *Luciano Ramalho* - Idiomatic Python: data model, iterators, concurrency, typing, and best practices.
 - **[Effective Python](https://effectivepython.com/)** - *Brett Slatkin* - Sharp, practical items for writing clean, correct, modern Python.
 - **[Python Cookbook (3rd Edition)](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)** - *David Beazley and Brian K. Jones* - Recipe-driven solutions to real Python problems (from basics to advanced).
