@@ -1,0 +1,8 @@
+# Top Books on AI Engineering
+
+- **[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)** - *Chip Huyen* - *2025* - The definitive guide to building production AI systems with LLMs — foundation models, RAG, fine-tuning, agents, and evals. Start here.
+- **[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)** - *Sebastian Raschka* - *2024* - Builds a GPT-style LLM step by step in PyTorch — the best way to truly understand what's inside any model.
+- **[The LLM Engineering Handbook](https://www.amazon.com/LLM-Engineering-Handbook-production-ready-applications/dp/1836200072)** - *Iusztin & Labonne* - *2024* - End-to-end guide for shipping LLM applications: RAG, vector search, prompt chaining, fine-tuning, evals, and LLMOps.
+- **[Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)** - *Berryman & Ziegler* - *2024* - Systematic prompt engineering from two core GitHub Copilot engineers — treats prompts as first-class engineering artifacts.
+- **[Designing Multi-Agent Systems](https://www.oreilly.com/library/view/designing-multi-agent-systems/9781098164744/)** - *Victor Dibia* - *2025* - Framework-agnostic guide to building reliable AI agent systems: orchestration patterns, memory, evaluation, and failure modes.
+- **[Generative AI Design Patterns](https://www.oreilly.com/library/view/generative-ai-design/9781098165567/)** - *Cihan Biyikoglu* - *2025* - 32 reusable patterns for RAG, reasoning chains, multi-modal systems, and agentic architectures.
