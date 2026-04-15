@@ -162,6 +162,7 @@ Find us on [GitHub](https://github.com/devtoolsd).
 
 ## Version Control
 
+- **[Git by Example](https://github.com/boringcollege/git-by-example)** - Step-by-step guide to Git operations, from basic to advanced.
 - **[Pro Git *(2nd Ed.)*](https://git-scm.com/book/en/v2)** - *by: Scott Chacon & Ben Straub* - The most readable Git book, from basics to power-user workflows — free online.
 - **[Version Control with Git](https://www.oreilly.com/library/view/version-control-with/9781492091191/)** - *by: Jon Loeliger & Matthew McCullough* - Comprehensive Git reference and best practices, from commits to collaboration workflows.
 - **[Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches)** - *by: Rick Umali* - Bite-sized Git lessons for daily use, with practice-friendly examples.
