@@ -8,3 +8,4 @@
 - **[TypeScript Quickly](https://www.manning.com/books/typescript-quickly)** - *Anton Moiseev* - *2020* - Practical TypeScript from basics to advanced types and tooling.
 - **[Essential TypeScript 5](https://www.amazon.com/Essential-TypeScript-5-Angular-Development/dp/1484293782)** - *Adam Freeman* - *2023* - TypeScript 5 for application development; comprehensive and up to date.
 - **[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)** - *TypeScript team* - *2024* - Official guide to the language; free online.
+- **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)** - *Simone Poggiali* - *2026* - Free and open-source TypeScript reference covering fundamentals through advanced concepts, with 10,300+ GitHub stars.
