@@ -569,6 +569,8 @@ Curated book lists that go deeper on specific topics:
 - **[PostgreSQL Books](https://github.com/sara8086/PostgresBooks)** - Books and guides for PostgreSQL.
 - **[Python Books](https://github.com/lara-west/PythonBooks)** - Python books, tutorials, and learning materials.
 - **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)** - The largest curated list of free programming books across every language and topic.
+- **[TypeScript Books](https://github.com/tscollege/typescript-books)** - A curated, hand-picked list of the best TypeScript books for learning and mastering TypeScript.
+
 
 ---
 
