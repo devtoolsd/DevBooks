@@ -12,3 +12,4 @@
 - **[Python Workout, 2nd Ed.](https://www.manning.com/books/python-workout-second-edition)** - *Reuven M. Lerner* - *2025* - 50 hands-on exercises to build fluency and problem-solving skills.
 - **[Head-First Python, 2nd Ed.](https://www.oreilly.com/library/view/head-first-python/9781491919521/)** - *Paul Barry* - *2016* - Visual, brain-friendly intro; web, databases, and Django.
 - **[Learn Python 3 the Hard Way](https://www.oreilly.com/library/view/learn-python-3/9780134692886/)** - *Zed A. Shaw* - *2017* - Deliberate practice through 52 exercises; typing code from scratch to build muscle memory.
+- **[Coffee Break Python Workbook](https://www.amazon.com/dp/B07WQR91PF)** - *Christian Mayer, Lukas Rieger & Zohaib Riaz* - *2019* - 127 short code puzzles with explained solutions for practicing Python code reading.
